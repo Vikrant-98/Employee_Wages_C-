@@ -1,0 +1,11 @@
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp2.1\EmployeeWage.deps.json
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp2.1\EmployeeWage.runtimeconfig.json
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp2.1\EmployeeWage.runtimeconfig.dev.json
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp2.1\EmployeeWage.dll
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp2.1\EmployeeWage.pdb
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp2.1\EmployeeWage.csprojAssemblyReference.cache
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp2.1\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp2.1\EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp2.1\EmployeeWage.AssemblyInfo.cs
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp2.1\EmployeeWage.dll
+C:\Users\The Daddy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp2.1\EmployeeWage.pdb
